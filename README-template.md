@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./challage2.jpg)
+![]([./challage2.jpg](https://github.com/paradox143yab/Results-summary-component/blob/main/design/desktop-preview.jpg))
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://paradox143yab.github.io/Results-summary-component/))
 
 ## My process
 
@@ -64,9 +64,6 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Yabets Workaferahu](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Website - [Yabets Workaferahu]([https://www.your-site.com](https://paradox143yab.github.io/Results-summary-component/))
+- Frontend Mentor - @paradox143yab
 
